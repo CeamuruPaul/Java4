@@ -5,7 +5,7 @@ public class Ascii {
             System.out.print((int) number);
             System.out.print(" ");
             System.out.println(number);
-            number++;
+            number++; // comentariu
         }
     }
 }
